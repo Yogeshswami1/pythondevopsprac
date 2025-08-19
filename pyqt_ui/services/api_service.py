@@ -2,7 +2,7 @@ import requests
 
 # BASE_URL = "http://localhost:8000/api/notes/"
 
-BASE_URL = "http://localhost:8000/api/notes/"
+BASE_URL = "http://52.66.171.14/api/notes/"
 
 
 def get_notes():
